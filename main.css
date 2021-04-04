@@ -1,7 +1,8 @@
 
-
 /* section one starts */
-
+body{
+    box-sizing: border-box;
+}
 .bg {
     background-repeat: no-repeat;
     background-size: cover;
@@ -107,7 +108,7 @@
 
 
 .ab {
-    display: flex;
+    /* display: flex; */
     text-align-last:center;
 }
 .abc{
@@ -222,7 +223,7 @@ a {
 img{
     max-width: 100%;
     max-height: 100%;
-    display: block; /* remove extra space below image */
+    display: block; 
 }
  
 .box.large{
@@ -231,3 +232,9 @@ img{
 .box.small{
     height: 100px;
 }
+
+@media only screen and (max-width: 768px) {
+    .mya{
+      margin-top: 30px;
+    }
+  }
