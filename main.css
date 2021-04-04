@@ -1,13 +1,14 @@
 
+
 /* section one starts */
 
-/* .bg {
+.bg {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
     color: #FFFFFF;
     /* padding: 80px 90px; */
-/* }  */
+}
 
 .col {
     padding-left: 0px;
@@ -20,14 +21,14 @@
     width: 98%;
 }
 
-/* .bg-left {
+.bg-left {
   background: url("images/main_img1-hero.png");
     background-repeat: no-repeat;
     height: 216px;
     background-repeat: no-repeat;
     background-size: contain;
     
-} */
+}
 
 
 .col-1,
