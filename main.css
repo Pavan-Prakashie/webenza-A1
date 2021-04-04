@@ -1,0 +1,232 @@
+
+/* section one starts */
+
+/* .bg {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    color: #FFFFFF;
+    /* padding: 80px 90px; */
+/* }  */
+
+.col {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.container {
+    /* padding-left: 0px;
+    padding-right: 0px; */
+    width: 98%;
+}
+
+/* .bg-left {
+  background: url("images/main_img1-hero.png");
+    background-repeat: no-repeat;
+    height: 216px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    
+} */
+
+
+.col-1,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-10,
+.col-11,
+.col-12,
+.col,
+.col-auto,
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm,
+.col-sm-auto,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md,
+.col-md-auto,
+.col-lg-1,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg,
+.col-lg-auto,
+.col-xl-1,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl,
+.col-xl-auto {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+
+.ab {
+    display: flex;
+    text-align-last:center;
+}
+.abc{
+    padding: 0px;
+}
+
+/* section one ends */
+
+
+
+.morecontent span {
+    display: none;
+}
+
+.commentt {
+
+    margin: 10px;
+
+}
+
+.commentt:hover {
+    text-decoration: none;
+}
+
+a {
+
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+/* fourth section */
+
+
+.bg-lefty {
+    background: url("images/blog-image-1.png");
+    background-repeat: no-repeat;
+    height: 216px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+
+.bg-leftyy {
+    background: url("images/blog-image-2.png");
+    background-repeat: no-repeat;
+    height: 216px;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.abe{
+    font-family: 'Roboto', sans-serif;
+    font-size:large;
+}
+
+.abf{
+    background-color: rgb(64,73,82);
+    border: none;
+}
+
+
+.collapse.in {
+    display: inline !important;
+}
+
+
+
+
+
+
+.morecontent span {
+    display: none;
+}
+
+.commentt {
+
+    margin: 10px;
+
+}
+
+.commentt:hover {
+    text-decoration: none;
+}
+
+
+
+
+.morecontentt span {
+    display: none;
+}
+
+.commenttt {
+
+    margin: 10px;
+
+}
+
+.commenttt:hover {
+    text-decoration: none;
+}
+
+a {
+
+    text-decoration: none;
+    font-weight: bold;
+    color: black;
+}
+
+img{
+    max-width: 100%;
+    max-height: 100%;
+    display: block; /* remove extra space below image */
+}
+ 
+.box.large{
+    height: 300px;
+}
+.box.small{
+    height: 100px;
+}
